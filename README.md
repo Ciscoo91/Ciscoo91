@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Ciscoo91/Ciscoo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there he is what I'm working on
 
 Here are some ideas to get you started:
 
