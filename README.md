@@ -8,7 +8,7 @@ Here are some of the projects I've been working on:
 
 - **Project 1:** Job search app made with React. [devjobs-web-app](https://github.com/Ciscoo91/devjobs-web-app)
 - **Project 2:** App to geolocate IP adresses. [IP addess tracker](https://github.com/Ciscoo91/ip-address-tracker)
-- **Project 2:** Success Three consulting agency. [Success Three](https://www.success-three.com/)
+- **Project 3:** Success Three consulting agency. [Success Three](https://www.success-three.com/)
 
 Feel free to explore my repositories to see more of my work!
 
